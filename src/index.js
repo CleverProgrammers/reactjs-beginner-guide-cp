@@ -18,5 +18,3 @@ const App = function() {
 
 // 3. show it on the screen 🚀
 ReactDOM.render(<App />, document.getElementById('root'))
-
-// 2-click-counter-with-react-hooks-functional
